@@ -4,7 +4,7 @@
 
 Actualmente la tecnologia que estoy usando para el frontend es React, para la maquetacion me gusta trabajar con HTML, JS y SASS.
 
-Habilidades: REACT / JS / HTML / CSS
+Habilidades: REACT / JS / Typescript /HTML / CSS /GIT
 
 
 
