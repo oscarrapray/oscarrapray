@@ -2,9 +2,9 @@
 #### soy Frontend Developer
 ![soy Frontend Developer](https://oscar-rapray.netlify.app/img/banner-desktop.jpg)
 
-Actualmente la tecnologia que estoy usando para el frontend es React, para la maquetacion me gusta trabajar con HTML, JS y SASS.
+Actualmente la tecnologia que estoy trabajando con next para el frontend, para la maquetacion me gusta trabajar con HTML, JS y SASS.
 
-Habilidades: REACT / JS / Typescript /HTML / CSS /GIT
+Habilidades: REACT / JS / Next / Nest / Node / Typescript /HTML / CSS /GIT
 
 
 
